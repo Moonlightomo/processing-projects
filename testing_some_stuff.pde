@@ -1,4 +1,5 @@
-
+// notes for people who wanna use this...
+// sigma
 
 void setup(){
   size(1000,1000)
