@@ -1,5 +1,7 @@
 //warning, very amateur code 
 //if you cannot resist the urge to laugh, you may wanna leave
+//Note: this is for saving final scores and not HIGH scores
+
 Table SavedScores;
 Table Previous;
 
